@@ -1,0 +1,7 @@
+{
+  "name": "CarCompanion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
