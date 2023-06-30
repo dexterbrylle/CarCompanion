@@ -1,5 +1,11 @@
 {
   "name": "CarCompanion",
+  "proxies": [
+    {
+      "path": "/localhost",
+      "proxyUrl": "http://localhost:8100"
+    }
+  ],
   "integrations": {
     "capacitor": {}
   },
